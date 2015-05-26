@@ -1,0 +1,71 @@
+C:\Users\tpar4829\Documents\Visual Studio 2010\Projects\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\bgLayer1.xnb
+C:\Users\tpar4829\Documents\Visual Studio 2010\Projects\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\bgLayer2.xnb
+C:\Users\tpar4829\Documents\Visual Studio 2010\Projects\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\endMenu.xnb
+C:\Users\tpar4829\Documents\Visual Studio 2010\Projects\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\explosion.xnb
+C:\Users\tpar4829\Documents\Visual Studio 2010\Projects\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\laser.xnb
+C:\Users\tpar4829\Documents\Visual Studio 2010\Projects\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\mainbackground.xnb
+C:\Users\tpar4829\Documents\Visual Studio 2010\Projects\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\mainMenu.xnb
+C:\Users\tpar4829\Documents\Visual Studio 2010\Projects\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\mine.xnb
+C:\Users\tpar4829\Documents\Visual Studio 2010\Projects\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\mineAnimation.xnb
+C:\Users\tpar4829\Documents\Visual Studio 2010\Projects\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\player.xnb
+C:\Users\tpar4829\Documents\Visual Studio 2010\Projects\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\shipAnimation.xnb
+C:\Users\tpar4829\Documents\Visual Studio 2010\Projects\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\explosion.xnb
+C:\Users\tpar4829\Documents\Visual Studio 2010\Projects\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\laserFire.xnb
+C:\Users\tpar4829\Documents\Visual Studio 2010\Projects\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\gameMusic.xnb
+C:\Users\tpar4829\Documents\Visual Studio 2010\Projects\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\menuMusic.xnb
+C:\Users\tpar4829\Documents\Visual Studio 2010\Projects\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\gameFont.xnb
+C:\Users\tpar4829\Documents\Visual Studio 2010\Projects\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\gameMusic.wma
+C:\Users\tpar4829\Documents\Visual Studio 2010\Projects\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\menuMusic.wma
+C:\Users\tpar4829\Documents\Visual Studio 2010\Projects\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Shooter.exe
+C:\Users\tpar4829\Documents\Visual Studio 2010\Projects\Shooter_Project_Windows\Shooter\Shooter\Shooter\bin\x86\Debug\Shooter.pdb
+C:\Users\tpar4829\Documents\Visual Studio 2010\Projects\Shooter_Project_Windows\Shooter\Shooter\Shooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tpar4829\Documents\Visual Studio 2010\Projects\Shooter_Project_Windows\Shooter\Shooter\Shooter\obj\x86\Debug\Shooter.exe
+C:\Users\tpar4829\Documents\Visual Studio 2010\Projects\Shooter_Project_Windows\Shooter\Shooter\Shooter\obj\x86\Debug\Shooter.pdb
+C:\Users\tpar4829\Documents\GitHub\Shooter_Project_Windows_Tyler\Shooter\Shooter\Shooter\obj\x86\Debug\Shooter.csprojResolveAssemblyReference.cache
+C:\Users\tpar4829\Documents\GitHub\Shooter_Project_Windows_Tyler\Shooter\Shooter\Shooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tpar4829\Documents\GitHub\Shooter_Project_Windows_Tyler\Shooter\Shooter\Shooter\obj\x86\Debug\Shooter.exe
+C:\Users\tpar4829\Documents\GitHub\Shooter_Project_Windows_Tyler\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\explosion.xnb
+C:\Users\tpar4829\Documents\GitHub\Shooter_Project_Windows_Tyler\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\laserFire.xnb
+C:\Users\tpar4829\Documents\GitHub\Shooter_Project_Windows_Tyler\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\gameMusic.xnb
+C:\Users\tpar4829\Documents\GitHub\Shooter_Project_Windows_Tyler\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\menuMusic.xnb
+C:\Users\tpar4829\Documents\GitHub\Shooter_Project_Windows_Tyler\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\gameMusic.wma
+C:\Users\tpar4829\Documents\GitHub\Shooter_Project_Windows_Tyler\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\menuMusic.wma
+C:\Users\tpar4829\Documents\GitHub\Shooter_Project_Windows_Tyler\Shooter\Shooter\Shooter\bin\x86\Debug\Shooter.exe
+C:\Users\tpar4829\Documents\GitHub\Shooter_Project_Windows_Tyler\Shooter\Shooter\Shooter\bin\x86\Debug\Shooter.pdb
+C:\Users\tpar4829\Documents\GitHub\Shooter_Project_Windows_Tyler\Shooter\Shooter\Shooter\obj\x86\Debug\Shooter.pdb
+C:\Users\tpar4829\Documents\GitHub\Shooter_Project_Windows_Tyler\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\bgLayer1.xnb
+C:\Users\tpar4829\Documents\GitHub\Shooter_Project_Windows_Tyler\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\bgLayer2.xnb
+C:\Users\tpar4829\Documents\GitHub\Shooter_Project_Windows_Tyler\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\endMenu.xnb
+C:\Users\tpar4829\Documents\GitHub\Shooter_Project_Windows_Tyler\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\explosion.xnb
+C:\Users\tpar4829\Documents\GitHub\Shooter_Project_Windows_Tyler\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\laser.xnb
+C:\Users\tpar4829\Documents\GitHub\Shooter_Project_Windows_Tyler\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\mainbackground.xnb
+C:\Users\tpar4829\Documents\GitHub\Shooter_Project_Windows_Tyler\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\mainMenu.xnb
+C:\Users\tpar4829\Documents\GitHub\Shooter_Project_Windows_Tyler\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\mine.xnb
+C:\Users\tpar4829\Documents\GitHub\Shooter_Project_Windows_Tyler\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\mineAnimation.xnb
+C:\Users\tpar4829\Documents\GitHub\Shooter_Project_Windows_Tyler\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\player.xnb
+C:\Users\tpar4829\Documents\GitHub\Shooter_Project_Windows_Tyler\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\shipAnimation.xnb
+C:\Users\tpar4829\Documents\GitHub\Shooter_Project_Windows_Tyler\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Fonts\gameFont.xnb
+C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\obj\x86\Debug\Shooter.csprojResolveAssemblyReference.cache
+C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\obj\x86\Debug\Shooter.exe
+C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\bgLayer1.xnb
+C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\bgLayer2.xnb
+C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\endMenu.xnb
+C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\explosion.xnb
+C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\laser.xnb
+C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\mainbackground.xnb
+C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\mainMenu.xnb
+C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\mine.xnb
+C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\mineAnimation.xnb
+C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\player.xnb
+C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\shipAnimation.xnb
+C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\explosion.xnb
+C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\laserFire.xnb
+C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\gameMusic.xnb
+C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\menuMusic.xnb
+C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Fonts\gameFont.xnb
+C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\gameMusic.wma
+C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\menuMusic.wma
+C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Shooter.exe
+C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Shooter.pdb
+C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\obj\x86\Debug\Shooter.pdb

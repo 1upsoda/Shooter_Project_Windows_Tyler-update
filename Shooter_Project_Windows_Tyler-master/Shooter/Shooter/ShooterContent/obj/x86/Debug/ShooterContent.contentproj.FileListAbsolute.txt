@@ -1,0 +1,2 @@
+C:\Users\tpar4829\Documents\GitHub\Shooter_Project_Windows_Tyler\Shooter\Shooter\ShooterContent\obj\x86\Debug\ShooterContent.contentprojResolveAssemblyReference.cache
+C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\ShooterContent\obj\x86\Debug\ShooterContent.contentprojResolveAssemblyReference.cache

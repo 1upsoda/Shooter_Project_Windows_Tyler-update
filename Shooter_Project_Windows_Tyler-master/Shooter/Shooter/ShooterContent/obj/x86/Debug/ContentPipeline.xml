@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\bgLayer1.png</Source>
+      <Name>Images\bgLayer1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\bgLayer1.xnb</Output>
+      <Time>2015-05-26T07:50:40.4108905-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bgLayer2.png</Source>
+      <Name>Images\bgLayer2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\bgLayer2.xnb</Output>
+      <Time>2015-05-26T07:50:40.4733381-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\endMenu.png</Source>
+      <Name>Images\endMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\endMenu.xnb</Output>
+      <Time>2015-05-26T07:50:40.6138452-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\explosion.png</Source>
+      <Name>Images\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\explosion.xnb</Output>
+      <Time>2015-05-26T07:50:40.6919047-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\laser.png</Source>
+      <Name>Images\laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\laser.xnb</Output>
+      <Time>2015-05-26T07:50:40.6919047-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\mainbackground.png</Source>
+      <Name>Images\mainbackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\mainbackground.xnb</Output>
+      <Time>2015-05-26T07:50:40.9416951-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\mainMenu.png</Source>
+      <Name>Images\mainMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\mainMenu.xnb</Output>
+      <Time>2015-05-26T07:50:40.8792475-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\mine.png</Source>
+      <Name>Images\mine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\mine.xnb</Output>
+      <Time>2015-05-26T07:50:40.9416951-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\mineAnimation.png</Source>
+      <Name>Images\mineAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\mineAnimation.xnb</Output>
+      <Time>2015-05-26T07:50:40.957307-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\player.png</Source>
+      <Name>Images\player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\player.xnb</Output>
+      <Time>2015-05-26T07:50:40.9729189-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\shipAnimation.png</Source>
+      <Name>Images\shipAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Images\shipAnimation.xnb</Output>
+      <Time>2015-05-26T07:50:40.9885308-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\explosion.wav</Source>
+      <Name>Sound\explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\explosion.xnb</Output>
+      <Time>2015-05-26T07:50:41.0509784-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\laserFire.wav</Source>
+      <Name>Sound\laserFire</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\laserFire.xnb</Output>
+      <Time>2015-05-26T07:50:41.4745013-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\gameMusic.mp3</Source>
+      <Name>Sound\gameMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\gameMusic.xnb</Output>
+      <Extra>C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\gameMusic.wma</Extra>
+      <Time>2015-05-26T07:50:41.4276656-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\menuMusic.mp3</Source>
+      <Name>Sound\menuMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\menuMusic.xnb</Output>
+      <Extra>C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Sound\menuMusic.wma</Extra>
+      <Time>2015-05-26T07:50:41.6462322-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\gameFont.spritefont</Source>
+      <Name>Fonts\gameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\Fonts\gameFont.xnb</Output>
+      <Time>2015-05-26T07:50:40.332831-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\ShooterContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\ShooterContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\tpar4829\Downloads\Shooter_Project_Windows_Tyler-master (1)\Shooter_Project_Windows_Tyler-master\Shooter\Shooter\Shooter\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-08-20T23:07:36.9345299-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
