@@ -78,6 +78,9 @@ namespace Shooter.Controller
         Random randomSpawnTime = new Random();
         // The font used to display UI elements
         SpriteFont font;
+        private bool help = true;
+        private bool helpStart = false;
+        private int helpWaitTime = 0;
         public string currentWeapon;
         public static string currentStyle;
         public static string CurrentStyle
@@ -359,6 +362,30 @@ namespace Shooter.Controller
             {
                 currentStyle = "Sin Wave";
                 sodaProgress = "";
+            }
+            if (currentKeyboardState.IsKeyDown(Keys.H))
+            {
+                if (help && helpWaitTime == 0)
+                {
+                    help = false;
+                    helpStart = true;
+                }
+                else if(!help && helpWaitTime == 0)
+                {
+                    help = true;
+                    helpStart = true;
+                }
+                
+
+            }
+            if (helpStart && helpWaitTime != 10)
+            {
+                helpWaitTime += 1;
+            }
+            else if (helpStart && helpWaitTime == 10)
+            {
+                helpStart = false;
+                helpWaitTime = 0;
             }
             if (currentKeyboardState.IsKeyDown(Keys.X))
             {
@@ -942,9 +969,15 @@ namespace Shooter.Controller
                 spriteBatch.DrawString(font, "health: " + player.Health, new Vector2(GraphicsDevice.Viewport.TitleSafeArea.X, GraphicsDevice.Viewport.TitleSafeArea.Y + 30), Color.Red);
 
             }
-            spriteBatch.DrawString(font, "X: " + Projectile.newXpos, new Vector2(GraphicsDevice.Viewport.TitleSafeArea.X, GraphicsDevice.Viewport.TitleSafeArea.Y + 120), Color.White);
-            spriteBatch.DrawString(font, "Y: " + Projectile.newYpos, new Vector2(GraphicsDevice.Viewport.TitleSafeArea.X, GraphicsDevice.Viewport.TitleSafeArea.Y + 150), Color.White);
+            //spriteBatch.DrawString(font, "X: " + Projectile.newXpos, new Vector2(GraphicsDevice.Viewport.TitleSafeArea.X, GraphicsDevice.Viewport.TitleSafeArea.Y + 120), Color.White);
+            //spriteBatch.DrawString(font, "Y: " + Projectile.newYpos, new Vector2(GraphicsDevice.Viewport.TitleSafeArea.X, GraphicsDevice.Viewport.TitleSafeArea.Y + 150), Color.White);
+            if (help)
+            {
+                spriteBatch.DrawString(font, "Help: WASD- Movement, Z- Spazzy Sin Wave, L- Laser.", new Vector2(GraphicsDevice.Viewport.TitleSafeArea.X, GraphicsDevice.Viewport.TitleSafeArea.Y + 120), Color.White);
+                spriteBatch.DrawString(font, "X- Sin-ish wave, C- Drop, R- Regular, H- Toggle Help.", new Vector2(GraphicsDevice.Viewport.TitleSafeArea.X, GraphicsDevice.Viewport.TitleSafeArea.Y + 150), Color.White);
+            }
 
+            
             spriteBatch.End();
             
             base.Draw(gameTime);
