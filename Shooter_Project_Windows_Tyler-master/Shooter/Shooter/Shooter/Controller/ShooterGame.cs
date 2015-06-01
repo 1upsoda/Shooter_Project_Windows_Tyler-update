@@ -363,6 +363,11 @@ namespace Shooter.Controller
                 currentStyle = "Sin Wave";
                 sodaProgress = "";
             }
+            if (currentKeyboardState.IsKeyDown(Keys.V))
+            {
+                currentStyle = "Tan Wave";
+                sodaProgress = "";
+            }
             if (currentKeyboardState.IsKeyDown(Keys.H))
             {
                 if (help && helpWaitTime == 0)

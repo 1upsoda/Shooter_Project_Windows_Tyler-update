@@ -125,11 +125,25 @@ namespace Shooter.Model
             }
             if (ShooterGame.currentStyle == "Sin Wave")
             {
+                
                 newXpos = (double) Position.X;
                 newYpos = (float) Math.Sin(newXpos) * 50;
                 projectileHorzSpeed = 5.0f;
-                Position.Y += newYpos;
+                if (sinTick % 2 == 0)
+                {
+                    Position.Y += newYpos;
+                }
                 //projectileVertSpeed = Math.Sin(newXpos);
+            }
+            if (ShooterGame.currentStyle == "Tan Wave")
+            {
+                newXpos = (double)Position.X;
+                newYpos = (float)Math.Tan(newXpos) * 50;
+                projectileHorzSpeed = 5.0f;
+                if (sinTick % 2 == 0)
+                {
+                    Position.Y += newYpos;
+                }
             }
             /// projectileSkew = Shooter.Controller.ShooterGame.PlayerMoveSpeedY;
             /// Position.Y = (Position.Y + projectileSkew);
